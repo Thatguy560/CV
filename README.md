@@ -6,25 +6,23 @@ Young, self-motivated and diligent aspiring Full-Stack Developer who has recentl
 
 ## Projects I've Worked On 
 
-| Project  |      Description                         |Tech-Stack | Github Repository
+| Project  |      Description                         |Tech Stack | 
 |----------|:----------------------------------------:|-----------:|-
-| Bank Tech Test | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement. | Ruby, RSpec      | https://github.com/Thatguy560/Banktechtest
-| Acebook |A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                              |  RubyonRails, Javascript, Bootstrap, Capybara, RSpec      | https://github.com/Thatguy560/acebook-5Makerteers
-| Road To Discovery | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. ________________________________________________                                              | React, Node, Javascript, Spotify Web API      | https://github.com/Team-react/Playlist_App
-______________________________________________________________________
+| [Bank Tech Test](https://github.com/Thatguy560/Banktechtest) | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement. | Ruby, RSpec      | https://github.com/Thatguy560/Banktechtest
+| [Acebook](https://github.com/Thatguy560/acebook-5Makerteers) |A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                              |  RubyonRails, Javascript, Bootstrap, Capybara, RSpec |
+| [Road To Discovery](https://github.com/Team-react/Playlist_App) | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy.                                                 |React, Node, Javascript, Spotify Web API | 
 
+All the rest of my projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
 ## Soft Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
+**Communication** Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+**Attention To Detail**
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -32,6 +30,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+**Time Management**
 
 ## Education
 
@@ -95,3 +95,5 @@ Music -
 Fitness - 
 
 Some addition interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowlegde), socialising with friends and family. Whilst growing up I was very interested in games design and I used to regulary practice animation using programs like Macromedia Flash 8. 
+
+
