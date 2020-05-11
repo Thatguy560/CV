@@ -6,11 +6,11 @@ Young, self-motivated and diligent aspiring Full-Stack Developer who has recentl
 
 ## Projects I've Worked On 
 
-| Project  |      Description                       |Tech Stack | 
-|----------|----------------------------------------|-----------|-
-| [Bank Tech Test](https://github.com/Thatguy560/Banktechtest) | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement. | Ruby, RSpec      | https://github.com/Thatguy560/Banktechtest
-| [Acebook](https://github.com/Thatguy560/acebook-5Makerteers) |A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                              |  RubyonRails, Javascript, Bootstrap, Capybara, RSpec |
-| [Road To Discovery](https://github.com/Team-react/Playlist_App) | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy.                                                 |React, Node, Javascript, Spotify Web API | 
+| Project       | Description                        | Tech Stack    |
+| ------------- | -----------------------------------| ------------- |
+| [Bank Tech Test](https://github.com/Thatguy560/Banktechtest)  | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement.                     | Ruby, RSpec |
+| [Acebook](https://github.com/Thatguy560/acebook-5Makerteers)  | A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                     | RubyonRails, Javascript, Bootstrap, Capybara, RSpec |
+| [Road To Discovery](https://github.com/Team-react/Playlist_App)  | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy.                     | React, Node, Javascript, Spotify Web API |
 
 All the rest of my projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
