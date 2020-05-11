@@ -1,8 +1,8 @@
-## Peter Stevens - CV
+## Peter Alexander Stevens | CV
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
-## Skills
+## Soft Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -29,31 +29,51 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript, React 
 - RSpec, Jasmine
+- SQL with Postgres and MySQL
 
 #### BPP, London Liverpool Street (July 2017 - November 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- AAT Level 3 - Qualified (Pass - 78% Achieved)
 
-#### Any other qualifications
+#### Kaplan Financial (October 2015 - October 2016)
 
-That in some arguable way make you a better software developer or well-rounded person
+- AAT Level 2 - Qualified
 
-#### Any other qualifications
+#### Chace Community School Sixth Form (September 2012 - August 2015)
 
-That in some arguable way make you a better software developer or well-rounded person
+A Level Qualifications
 
-## Experience
+- Mathematics (B)
+- Physics (C)
+- Chemistry (D)
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+As Level Qualifications
+
+- Mathematics (B)
+- Physics (C)
+- Chemistry (C)
+
+#### Chace Community School (September 2007 - July 2012)
+
+9 GCSEs Including English and Maths at Grades A*- C.
+
+## Employment History & Experience
+
+**English Rural Housing Association** (March 2019 - October 2019)    
+*Temporary Finance Assistant*
+
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Association of Commonwealth Universities** (March 2017 - January 2019)   
+*Finance Apprentice*
+
 - Any experience relevent to software development
 
-## Hobbies
+**Xhi Accounting Limited** (October 2015 - October 2016)   
+*Trainee Accounts Technician*
+
+- Any experience relevent to software development
+
+## Hobbies & Interests
 
 Any cool stuff that makes you a super part of a software development team
