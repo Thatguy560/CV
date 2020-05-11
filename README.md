@@ -2,6 +2,14 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
+## Projects I've Worked On 
+
+| Project Name  | Description   | Tech Stack   | Github Repository 
+| ------------- | ------------- |------------- | -----------------
+| Content Cell  | Content Cell  |              |
+| Content Cell  | Content Cell  |              |
+| Content Cell  | Content Cell  |              |
+
 ## Soft Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -76,4 +84,10 @@ As Level Qualifications
 
 ## Hobbies & Interests
 
-Any cool stuff that makes you a super part of a software development team
+Video Games - 
+
+Music - 
+
+Fitness - 
+
+Some of my addition interests and hobbies over the years include travelling, film, writing, technology, socialising with friends and family. Whilst growing up I was very interested in games design and I used to do regulary practice animation using programs like Macromedia Flash 8. 
