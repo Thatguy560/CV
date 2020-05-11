@@ -1,6 +1,6 @@
 ## Peter Alexander Stevens | CV
 
-Young, self-motivated and diligent aspiring Full-Stack Developer who has recently graduated from renowned software development bootcamp Makers Academy. Near the start of 2019 I knew I wanted a career change  
+Young, self-motivated and diligent aspiring Full-Stack Developer who has recently graduated from renowned software development bootcamp Makers Academy. Near the start of 2019 I knew I desired a career change  
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 
@@ -65,7 +65,7 @@ As Level Qualifications
 
 #### Chace Community School (September 2007 - July 2012)
 
-9 GCSEs Including English and Maths at Grades A*- C.
+9 GCSEs Including English and Maths at Grades A*-C.
 
 ## Employment History & Experience
 
