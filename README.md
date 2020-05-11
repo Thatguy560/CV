@@ -1,16 +1,18 @@
 ## Peter Alexander Stevens | CV
 
-Young, self-motivated and diligent aspiring Full-Stack Developer who has recently graduated from renowned software development bootcamp Makers Academy. Near the start of 2019 I knew I desired a career change  
+Young, self-motivated and diligent aspiring Full-Stack Developer who has recently graduated from renowned software development bootcamp Makers Academy. Near the start of 2019 I knew I desired a career change that could open up loads of new oppertunities for me 
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 
 ## Projects I've Worked On 
 
-| Project Name  | Description                      | Tech Stack   | Github Repository 
-| ------------- | ---------------------------------|--------------|--------------------------------------------
-| Bank Tech Test| Description 1                    | Ruby, RSpec  | https://github.com/Thatguy560/Banktechtest
-| Acebook       | Description 2                    | Ruby on Rails, Javascript, Bootstrap, Capybara, RSpec | https://github.com/Thatguy560/acebook-5Makerteers
-| Road To Discovery  | Description 3               | React, Node, Javascript, Spotify Web API | https://github.com/Team-react/Playlist_App
+| Project  |      Description                         |Tech-Stack | Github Repository
+|----------|:----------------------------------------:|-----------:|-
+| Bank Tech Test | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement. | Ruby, RSpec      | https://github.com/Thatguy560/Banktechtest
+| Acebook |A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                              |  RubyonRails, Javascript, Bootstrap, Capybara, RSpec      | https://github.com/Thatguy560/acebook-5Makerteers
+| Road To Discovery | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. ________________________________________________                                              | React, Node, Javascript, Spotify Web API      | https://github.com/Team-react/Playlist_App
+______________________________________________________________________
+
 
 ## Soft Skills
 
