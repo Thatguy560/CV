@@ -1,14 +1,16 @@
 ## Peter Alexander Stevens | CV
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Young, self-motivated and diligent aspiring Full-Stack Developer who has recently graduated from renowned software development bootcamp Makers Academy. Near the start of 2019 I knew I wanted a career change  
+
+<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 
 ## Projects I've Worked On 
 
-| Project Name  | Description   | Tech Stack   | Github Repository 
-| ------------- | ------------- |------------- | -----------------
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
-| Content Cell  | Content Cell  |              |
+| Project Name  | Description                      | Tech Stack   | Github Repository 
+| ------------- | ---------------------------------|--------------|--------------------------------------------
+| Bank Tech Test| Description 1                    | Ruby, RSpec  | https://github.com/Thatguy560/Banktechtest
+| Acebook       | Description 2                    | Ruby on Rails, Javascript, Bootstrap, Capybara, RSpec | https://github.com/Thatguy560/acebook-5Makerteers
+| Road To Discovery  | Description 3               | React, Node, Javascript, Spotify Web API | https://github.com/Team-react/Playlist_App
 
 ## Soft Skills
 
@@ -31,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (Febuary - May 2020)
+#### Makers Academy, London Liverpool Street (Febuary - May 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -43,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - AAT Level 3 - Qualified (Pass - 78% Achieved)
 
-#### Kaplan Financial (October 2015 - October 2016)
+#### Kaplan Financial, London Bridge (October 2015 - October 2016)
 
 - AAT Level 2 - Qualified
 
@@ -90,4 +92,4 @@ Music -
 
 Fitness - 
 
-Some of my addition interests and hobbies over the years include travelling, film, writing, technology, socialising with friends and family. Whilst growing up I was very interested in games design and I used to do regulary practice animation using programs like Macromedia Flash 8. 
+Some addition interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowlegde), socialising with friends and family. Whilst growing up I was very interested in games design and I used to regulary practice animation using programs like Macromedia Flash 8. 
