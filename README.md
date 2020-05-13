@@ -1,6 +1,6 @@
 ## Peter Alexander Stevens | CV
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Contact](#Contact)
+[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
 ______________________________________________________________________
 
 ## Background
