@@ -1,5 +1,10 @@
 ## Peter Alexander Stevens | CV
 
+Email: Peterstevens510@gmail.com
+
+Contact Number: Email me
+______________________________________________________________________
+
 Young, self-motivated and diligent aspiring Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech). 
 
 ## Background
@@ -10,7 +15,7 @@ My concern was if a career in finance would not provide sufficient mental stimul
 
 I wholeheartedly believe a career in tech would provide the creativity, excitement and diversity elements my prior career path was lacking, alongside fresh intellectual logic-based challenges and ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
 
-## Projects I've Worked On 
+## Projects 
 
 Over my time at Makers I worked on a variety of different projects both independently or in a team. I learnt the importance of time keeping and pair programming with regard to team projects.
 
@@ -112,12 +117,12 @@ As Level Qualifications
 
 ## Hobbies & Interests
 
-Video Games - One of my favourite past times and one of the most influential reasons I find technology so enthralling.
+Video Games - One of my favourite past times and one of the most influential reasons I find technology as a whole so enthralling.
 
 Music - I've been into most kinds of music from a fairly early age and been to countless gigs and festivals. 
 
 Fitness - I firmly believe keeping physically active is not only one of the best things you for your body but also for your mind.
 
-Some addition interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowlegde), socialising with friends and family. Whilst growing up I was very interested in games design and I used to regulary practice animation using programs like Macromedia Flash 8. 
+Some addition interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowledge), socialising with friends and family. Whilst growing up I used to regulary practice animation to nurture my creative side using programs like Macromedia Flash 8. 
 
 
