@@ -1,19 +1,18 @@
 ## Peter Alexander Stevens | CV
+<!-- A sentence about who and what you are. -->
+Young, self-motivated and diligent aspiring Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech). 
 
-Young, self-motivated and diligent aspiring Full-Stack Developer who has just graduated from renowned software development bootcamp Makers Academy. 
+## Background
+<!-- Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
+After finishing my A levels in school and deciding the university path wasn't for me, I went straight into work via an apprenticeship route instead. I spent the last three and a half years working (and simultaneously studying) full time in Accounting and Finance. During this period I worked three separate jobs which provided a wealth of different experiences, these industries ran the gamut of an acclaimed non-profit organisation to small commercial businesses. 
 
-After finishing my A levels in school and deciding the university path wasn't for me, I went straight into work via an apprenticeship route instead; so I could focus on getting some real world experience and gain a vocational qualification. I spent the last three and a half years working full time in Accounting and Finance. During this period I worked three separate jobs which provided a wealth of different experiences, these industries ran the gamut of an acclaimed non-profit organisation to small commercial businesses. 
+The concern I had was the uncertainty whether this profession would provide sufficient mental stimulation to maintain my interest.
 
-The concern I had was the uncertainity whether this profession would provide sufficient mental stimulation to maintain my interest in the long haul.
-
-
-
-
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
+I feel a career in software development would provide the creativity, excitement and diversity elements my prior career path was lacking. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
 
 ## Projects I've Worked On 
 
-Over my time at Makers
+Over my time at Makers I worked on a variety of different projects both independently or in a team. I learnt the importance of time keeping and pair programming with regard to team projects.
 
 | Project       | Description                        | Tech Stack    |
 | ------------- | -----------------------------------| ------------- |
@@ -23,9 +22,11 @@ Over my time at Makers
 
 All the rest of my projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
+<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples. -->
+
 ## Soft Skills
 
-**Communication** Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+**Communication** 
 
 - Experience
 - Achievements
@@ -33,14 +34,28 @@ All the rest of my projects can be found here on my [Github](https://github.com/
 
 **Attention To Detail**
 
+- Experience
+- Achievements
+- Evidence
+
+**Highly IT Literate**
+
+- Experience
+- Achievements
+- Evidence
+
+**Excellent numerical & data entry skills**
+
+- Experience
+- Achievements
+- Evidence
+
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
-
-**Time Management**
 
 ## Education
 
