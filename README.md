@@ -1,14 +1,12 @@
 ## Peter Alexander Stevens | CV
+
+[Projects](#Projects) | [Skills](#Soft-Skills) | [Education](#Education) | [Experience](#Experience) | [Contact](#Contact)
 ______________________________________________________________________
 
-Email: Peterstevens510@gmail.com
-
-Contact Number: Email me
-______________________________________________________________________
+## Background
 
 Young, self-motivated and diligent aspiring Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech). 
 
-## Background
 <!-- Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 After finishing my A levels in school and deciding the university path wasn't for me, I went straight into work via an apprenticeship route instead. I spent the last three and a half years working (and simultaneously studying) full time in Accounting and Finance. During this period I worked three separate jobs which provided a wealth of different experiences, these industries ran the gamut of an acclaimed non-profit organisation to small commercial businesses. 
 
@@ -24,13 +22,13 @@ Over my time at Makers I worked on a variety of different projects both independ
 | ------------- | -----------------------------------| ------------- |
 | [Bank Tech Test](https://github.com/Thatguy560/Banktechtest)  | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement. I used the gem 'Simplecov' for test coverage.                | Ruby, RSpec |
 | [Acebook](https://github.com/Thatguy560/acebook-5Makerteers)  | A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                     | Ruby on Rails, Javascript, Bootstrap, Capybara, RSpec |
-| [Road To Discovery](https://github.com/Team-react/Playlist_App)  | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy and took just under two weeks to build.                     | React, Node, Javascript, Spotify Web API |
+| [Road To Discovery](https://github.com/Team-react/Playlist_App)  | About to leave for that 5 hour journey home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy and took just under two weeks to build.                     | React, Node, Javascript, Spotify Web API |
 
 All of my other projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
 <!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples. -->
 
-## Soft Skills
+## Skills
 
 **Communication** 
 
@@ -99,7 +97,7 @@ As Level Qualifications
 
 9 GCSEs Including English and Maths at Grades A*-C.
 
-## Employment History & Experience
+## Experience
 
 **English Rural Housing Association** (March 2019 - October 2019)    
 *Temporary Finance Assistant*
@@ -126,5 +124,10 @@ Fitness - I firmly believe keeping physically active is not only one of the best
 
 Some additional interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowledge). Whilst growing up I nurtured my creative side with regular animation practice using programs like Macromedia Flash 8.
  
+## Contact
 
+Email: Peterstevens510@gmail.com
 
+Location : North London
+
+Contact Number: Email me
