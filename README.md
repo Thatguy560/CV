@@ -32,7 +32,7 @@ All of my other projects can be found here on my [Github](https://github.com/Tha
 
 **Communication** 
 
-I consider myself to be eloquent, I'm competent getting my points across via both written communication and through word of mouth. A notable part of my profession was being in constant communication  
+I'm a proficient commiunicator and I attribute that mostly with my ability to write and speak coherently. A notable part of my profession was being able to liaise with clients or customers on a daily basis. For example in my job at the ACU 
 
 **Attention To Detail**
 
@@ -98,7 +98,7 @@ As Level Qualifications
 
 - Any experience relevent to software development
 
-**Association of Commonwealth Universities** (March 2017 - January 2019)   
+**Association of Commonwealth Universities (ACU)** (March 2017 - January 2019)   
 *Finance Apprentice*
 
 - Any experience relevent to software development
