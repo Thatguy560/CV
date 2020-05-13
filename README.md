@@ -8,7 +8,7 @@ After finishing my A levels in school and deciding the university path wasn't fo
 
 My concern was if a career in finance would not provide sufficient mental stimulation to maintain my interest.
 
-I wholeheartedly believe a career in tech would provide the creativity, excitement and diversity elements my prior career path was lacking. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
+I wholeheartedly believe a career in tech would provide the creativity, excitement and diversity elements my prior career path was lacking, alongside fresh intellectual logic-based challenges and ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
 
 ## Projects I've Worked On 
 
@@ -112,7 +112,7 @@ As Level Qualifications
 
 ## Hobbies & Interests
 
-Video Games - 
+Video Games - One of my favourite past times and one of the most influential reasons I find technology so enthralling.
 
 Music - 
 
