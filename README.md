@@ -114,9 +114,9 @@ As Level Qualifications
 
 Video Games - One of my favourite past times and one of the most influential reasons I find technology so enthralling.
 
-Music - 
+Music - I've been into most kinds of music from a fairly early age and been to countless gigs and festivals. 
 
-Fitness - 
+Fitness - I firmly believe keeping physically active is not only one of the best things you for your body but also for your mind.
 
 Some addition interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowlegde), socialising with friends and family. Whilst growing up I was very interested in games design and I used to regulary practice animation using programs like Macromedia Flash 8. 
 
