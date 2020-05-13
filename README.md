@@ -32,19 +32,19 @@ All of my other projects can be found here on my [Github](https://github.com/Tha
 
 **Communication** 
 
-I'm a proficient commiunicator and I attribute this mostly with my ability to write and speak coherently. A vital aspect of my prior jobs was being able to liaise with clients and customers on a daily basis. For example in my job at English Rural I often had to speak to suppliers over the phone and obtain the necessary information to ensure all invoice payments were made correctly. Additionally I had to make sure any time a customer rang all queries, concerns and complaints were documented correctly and emailed over to the relevant department.
+I'm a proficient communicator and I attribute this mostly with my ability to write and speak coherently. A vital aspect of my prior jobs was being able to liaise with clients and customers regularly. For example in my job at English Rural I often had to speak to suppliers over the phone and obtain the necessary information to ensure all invoice payments were handled correctly. Additionally I had to make sure any time a customer rang all queries, concerns and complaints were documented correctly and emailed over to the relevant department.
 
 **Attention To Detail**
 
-From my years spent working in accounting and finance, pinpointing the small details was a crucial part of my job and I aim to bring this forward into software development. I'm meticulous and check my work multiple times to ensure 100% accuracy. For instance when I was 
-<!--Since I was dealing with huge amounts of money-->
+From my years spent working in accounting and finance, pinpointing the small details was a crucial part of my job and I aim to bring this forward into software development. I'm meticulous and often check my work multiple times to ensure 100% accuracy. A good example of this is when I was working at the ACU, I had a tuition fee batch payment of around £5million being paid in support of hundreds of students across numerous different universities. When processing this batch payment I had to ensure every single detail was correct otherwise this could have been very problematic for both the orginisation and the scholar.
 
 **Excellent Numerical & Data Entry Skills**
 
 Achieved a 'B' grade at A Level Maths and a 'C' at A Level Physics, furthermore I'm highly Office software literate since data entry was the most predominant part of my job.
 
-**Highly IT Literate**
+**Fast Learning New Technologies**
 
+Ability to quickly pick up new technologies, as an example before Makers, I'd never used a Mac before, within a week I was already proficient using one. 
 <!-- - Experience
 - Achievements
 - Evidence -->
@@ -100,7 +100,7 @@ As Level Qualifications
 - Any experience relevent to software development
 
 **Association of Commonwealth Universities (ACU)** (March 2017 - January 2019)   
-*Finance Apprentice*
+*Accounts Payable Assistant*
 
 - Any experience relevent to software development
 
