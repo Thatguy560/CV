@@ -1,16 +1,25 @@
 ## Peter Alexander Stevens | CV
 
-Young, self-motivated and diligent aspiring Full-Stack Developer who has recently graduated from renowned software development bootcamp Makers Academy. Near the start of 2019 I knew I desired a career change that could open up loads of new oppertunities for me 
+Young, self-motivated and diligent aspiring Full-Stack Developer who has just graduated from renowned software development bootcamp Makers Academy. 
+
+After finishing my A levels in school and deciding the university path wasn't for me, I went straight into work via an apprenticeship route instead; so I could focus on getting some real world experience and gain a vocational qualification. I spent the last three and a half years working full time in Accounting and Finance. During this period I worked three separate jobs which provided a wealth of different experiences, these industries ran the gamut of an acclaimed non-profit organisation to small commercial businesses. 
+
+The concern I had was the uncertainity whether this profession would provide sufficient mental stimulation to maintain my interest in the long haul.
+
+
+
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 
 ## Projects I've Worked On 
 
+Over my time at Makers
+
 | Project       | Description                        | Tech Stack    |
 | ------------- | -----------------------------------| ------------- |
-| [Bank Tech Test](https://github.com/Thatguy560/Banktechtest)  | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement.                     | Ruby, RSpec |
+| [Bank Tech Test](https://github.com/Thatguy560/Banktechtest)  | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement. I used the gem 'Simplecov' for test coverage.                | Ruby, RSpec |
 | [Acebook](https://github.com/Thatguy560/acebook-5Makerteers)  | A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                     | Ruby on Rails, Javascript, Bootstrap, Capybara, RSpec |
-| [Road To Discovery](https://github.com/Team-react/Playlist_App)  | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy.                     | React, Node, Javascript, Spotify Web API |
+| [Road To Discovery](https://github.com/Team-react/Playlist_App)  | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy and took just under two weeks to build.                     | React, Node, Javascript, Spotify Web API |
 
 All the rest of my projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
