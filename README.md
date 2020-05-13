@@ -1,14 +1,14 @@
 ## Peter Alexander Stevens | CV
-<!-- A sentence about who and what you are. -->
+
 Young, self-motivated and diligent aspiring Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech). 
 
 ## Background
 <!-- Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 After finishing my A levels in school and deciding the university path wasn't for me, I went straight into work via an apprenticeship route instead. I spent the last three and a half years working (and simultaneously studying) full time in Accounting and Finance. During this period I worked three separate jobs which provided a wealth of different experiences, these industries ran the gamut of an acclaimed non-profit organisation to small commercial businesses. 
 
-The concern I had was the uncertainty whether this profession would provide sufficient mental stimulation to maintain my interest.
+My concern was if a career in finance would not provide sufficient mental stimulation to maintain my interest.
 
-I feel a career in software development would provide the creativity, excitement and diversity elements my prior career path was lacking. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
+I wholeheartedly believe a career in tech would provide the creativity, excitement and diversity elements my prior career path was lacking. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
 
 ## Projects I've Worked On 
 
@@ -20,7 +20,7 @@ Over my time at Makers I worked on a variety of different projects both independ
 | [Acebook](https://github.com/Thatguy560/acebook-5Makerteers)  | A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                     | Ruby on Rails, Javascript, Bootstrap, Capybara, RSpec |
 | [Road To Discovery](https://github.com/Team-react/Playlist_App)  | About to leave for that 5 hour journey to home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy and took just under two weeks to build.                     | React, Node, Javascript, Spotify Web API |
 
-All the rest of my projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
+All of my other projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
 <!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples. -->
 
