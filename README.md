@@ -1,4 +1,5 @@
 ## Peter Alexander Stevens | CV
+______________________________________________________________________
 
 Email: Peterstevens510@gmail.com
 
@@ -119,10 +120,11 @@ As Level Qualifications
 
 Video Games - One of my favourite past times and one of the most influential reasons I find technology as a whole so enthralling.
 
-Music - I've been into most kinds of music from a fairly early age and been to countless gigs and festivals. 
+Music - I've been into most kinds of music from a fairly early age and been to countless gigs and festivals.
 
-Fitness - I firmly believe keeping physically active is not only one of the best things you for your body but also for your mind.
+Fitness - I firmly believe keeping physically active is not only one of the best things for your body but also for your mind.
 
-Some addition interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowledge), socialising with friends and family. Whilst growing up I used to regulary practice animation to nurture my creative side using programs like Macromedia Flash 8. 
+Some additional interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowledge). Whilst growing up I nurtured my creative side with regular animation practice using programs like Macromedia Flash 8.
+ 
 
 
