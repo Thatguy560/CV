@@ -1,6 +1,6 @@
 ## Peter Alexander Stevens | CV
 
-[Projects](#Projects) | [Skills](#Soft-Skills) | [Education](#Education) | [Experience](#Experience) | [Contact](#Contact)
+[Projects](#Projects) | [Skills](#Soft-Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies & Interests](#Interests) | [Contact](#Contact)
 ______________________________________________________________________
 
 ## Background
@@ -114,7 +114,7 @@ As Level Qualifications
 
 - Any experience relevent to software development
 
-## Hobbies & Interests
+## Interests
 
 Video Games - One of my favourite past times and one of the most influential reasons I find technology as a whole so enthralling.
 
