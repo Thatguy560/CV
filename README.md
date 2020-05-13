@@ -26,33 +26,27 @@ Over my time at Makers I worked on a variety of different projects both independ
 
 All of my other projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
-<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples. -->
+<!-- Consider skills relevent to software development. Then consider your best skills. You should demonstrate how capable you are at this skill with examples. -->
 
 ## Skills
 
 **Communication** 
 
-- Experience
-- Achievements
-- Evidence
+I consider myself to be eloquent, I'm competent getting my points across via both written communication and through word of mouth. A notable part of my profession was being in constant communication  
 
 **Attention To Detail**
 
-- Experience
-- Achievements
-- Evidence
+From my years spent working in accounting and finance, noticing the small details was a crucial part of my job and I aim to bring this forward into software development. I'm meticulous and check my work multiple times to ensure 100% accuracy. 
+
+**Excellent Numerical & Data Entry Skills**
+
+Achieved a 'B' grade at A Level Maths and a 'C' at A Level Physics, furthermore I'm highly Office software literate since data entry was the most predominant part of my job.
 
 **Highly IT Literate**
 
-- Experience
+<!-- - Experience
 - Achievements
-- Evidence
-
-**Excellent numerical & data entry skills**
-
-- Experience
-- Achievements
-- Evidence
+- Evidence -->
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
