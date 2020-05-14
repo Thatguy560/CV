@@ -27,24 +27,23 @@ Over my time at Makers I worked on a variety of different projects both independ
 All of my other projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
 <!-- Consider skills relevent to software development. Then consider your best skills. You should demonstrate how capable you are at this skill with examples. -->
-
 ## Skills
 
 **Communication** 
 
-I'm a proficient communicator and I attribute this mostly with my ability to write and speak coherently. A vital aspect of my prior jobs was being able to liaise with clients and customers regularly. For example in my job at English Rural I often had to speak to suppliers over the phone and obtain the necessary information to ensure all invoice payments were handled correctly. Additionally I had to make sure any time a customer rang all queries, concerns and complaints were documented correctly and emailed over to the relevant department.
+I'm a proficient communicator and I attribute this mostly with my ability to write and speak coherently. A vital aspect of my prior jobs was being able to liaise with clients and customers regularly. For example in my job at English Rural I often had to speak to suppliers over the phone and obtain the necessary information to ensure all invoice payments were handled correctly. Additionally I had to make sure any time a customer rang all queries, concerns and complaints were documented correctly and forwarded to the relevant department.
 
 **Attention To Detail**
 
-From my years spent working in accounting and finance, pinpointing the small details was a crucial part of my job and I aim to bring this forward into software development. I'm meticulous and often check my work multiple times to ensure 100% accuracy. A good example of this is when I was working at the ACU, I had a tuition fee batch payment of around £5million being paid in support of hundreds of students across numerous different universities. When processing this batch payment I had to ensure every single detail was correct otherwise this could have been very problematic for both the orginisation and the scholar.
+From my years spent working in accounting and finance, pinpointing the small details was a crucial part of my job and I aim to bring this forward into software development. I'm meticulous and often check my work multiple times to ensure 100% accuracy. A good example of this is when I was working at the ACU, I had a tuition fee batch payment of around £5million being paid in support of hundreds of students across numerous different universities. When processing these payments I had to ensure every single detail was correct otherwise this could have been very problematic for both the organisation and the scholar(s).
 
 **Excellent Numerical & Problem Solving Skills**
 
-With a logical mindset developed from studying A Level Maths & Physics and with the ability to be analytical as a result of my years at work spent analysing data, I can find methodical solutions to problems quickly. One of my biggest qualities when it comes to coding is being able to identify problems others may have missed and knowing where to look online for a solution. 
+With a logical mindset developed from studying A Level Maths & Physics and supplementary analytical experience as a result of my years spent investigating data, I can find methodical solutions to problems quickly. One of my biggest personal qualities with coding is being able to identify potential solutions to problems others may have missed and knowing what to search for to find a answer. 
 
 **Fast Learning New Technologies**
 
-Ability to quickly pick up new technologies, as an example before Makers, I'd never used a Mac before, within a week I was already proficient using one. 
+As a result of working working multiple jobs and grown up using technology, I have the ability to quickly learn new software and hardware fast, A good example of this was before Makers, I'd never used a Mac computer before, within a week I was already proficient using one. 
 <!-- - Experience
 - Achievements
 - Evidence -->
@@ -55,7 +54,6 @@ Ability to quickly pick up new technologies, as an example before Makers, I'd ne
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
-
 ## Education
 
 #### Makers Academy, London Liverpool Street (January - May 2020)
@@ -100,14 +98,14 @@ As Level Qualifications
 - Any experience relevent to software development
 
 **Association of Commonwealth Universities (ACU)** (March 2017 - January 2019)   
-*Accounts Payable Assistant*
+*Finance Apprentice*
 
-- Any experience relevent to software development
+Accounts Payable Assistant responsible for ensuring all invoices and credit notes were entered accurately and promptly into the Exchequer Finance System. Majority of tasks were to ensure the correct functioning of the organisation’s finances, I value this experience as it greatly enhanced my attention to detail skills. Additional value was added by providing administrative support to other members of the finance team.
 
 **Xhi Accounting Limited** (October 2015 - October 2016)   
 *Trainee Accounts Technician*
 
-- Any experience relevent to software development
+Experienced my first taste of working full-time, I learnt a lot of invaluable skills during this time such as working effectively in a small team through good team practices and pragmatic time management. By utilising Trello to manage tasks and Harvest software for time tracking to record and bill for accountancy work.   
 
 ## Interests
 
