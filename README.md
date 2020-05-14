@@ -38,9 +38,9 @@ I'm a proficient communicator and I attribute this mostly with my ability to wri
 
 From my years spent working in accounting and finance, pinpointing the small details was a crucial part of my job and I aim to bring this forward into software development. I'm meticulous and often check my work multiple times to ensure 100% accuracy. A good example of this is when I was working at the ACU, I had a tuition fee batch payment of around £5million being paid in support of hundreds of students across numerous different universities. When processing this batch payment I had to ensure every single detail was correct otherwise this could have been very problematic for both the orginisation and the scholar.
 
-**Excellent Numerical & Data Entry Skills**
+**Excellent Numerical & Problem Solving Skills**
 
-Achieved a 'B' grade at A Level Maths and a 'C' at A Level Physics, furthermore I'm highly Office software literate since data entry was the most predominant part of my job.
+With a logical mindset developed from studying A Level Maths & Physics and with the ability to be analytical as a result of my years at work spent analysing data, I can find methodical solutions to problems quickly. One of my biggest qualities when it comes to coding is being able to identify problems others may have missed and knowing where to look online for a solution. 
 
 **Fast Learning New Technologies**
 
@@ -49,16 +49,16 @@ Ability to quickly pick up new technologies, as an example before Makers, I'd ne
 - Achievements
 - Evidence -->
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+<!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed. -->
 
-- I achieved A during my work at B (job, or otherwise)
+<!-- - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
-#### Makers Academy, London Liverpool Street (Febuary - May 2020)
+#### Makers Academy, London Liverpool Street (January - May 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
