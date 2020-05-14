@@ -95,7 +95,7 @@ As Level Qualifications
 **English Rural Housing Association** (March 2019 - October 2019)    
 *Temporary Finance Assistant*
 
-Main tasks included but not limited to, processing Rent Receipts, Housing Benefit Schedules, Standing Orders and Cheques. Updating Rent Receipt Schedules and producing Monthly Rent Arrears summary reports. As a temporary position, the paramount thing was being able to quickly learn how to use the companies choice of financial software 'SDM Housing Software'. 
+Main tasks included but not limited to, processing Rent Receipts, Housing Benefit Schedules, Standing Orders and Cheques. Updating Rent Receipt Schedules and producing Monthly Rent Arrears summary reports. As a temporary position, the paramount skill I had to develop was my ability to swiftly adapt, within a few weeks I was already adept using the company's choice of financial software 'SDM Housing Software'.
 
 **Association of Commonwealth Universities (ACU)** (March 2017 - January 2019)   
 *Finance Apprentice*
