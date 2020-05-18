@@ -22,7 +22,8 @@ Over my time at Makers I worked on a variety of different projects both independ
 | ------------- | -----------------------------------| ------------- |
 | [Bank Tech Test](https://github.com/Thatguy560/Banktechtest)  | A Tech Test built over a 3 day period, using irb you can make deposits, withdrawals, check the balance of your account and print a statement. I used the gem 'Simplecov' for test coverage.                | Ruby, RSpec |
 | [Acebook](https://github.com/Thatguy560/acebook-5Makerteers)  | A Facebook clone built in a team of five, over a two week period, User stories were provided to us by Makers Coaches.                     | Ruby on Rails, Javascript, Bootstrap, Capybara, RSpec |
-| [Road To Discovery](https://github.com/Team-react/Playlist_App)  | About to leave for that 5 hour journey home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy and took just under two weeks to build.                     | React, Node, Javascript, Spotify Web API |
+| [Road To Discovery](https://github.com/Team-react/Playlist_App)  | About to leave for that 5 hour journey home, but forgot to make a playlist? No problem Introducing: ROAD TO DISCOVERY. This was my final project at Makers Academy and took just under two weeks to build.                     | React, Node, Javascript, Spotify Web API | 
+|[Gilded Rose Refactoring](https://github.com/Thatguy560/GildedRose-Refactoring-Kata) | Another Tech test that involved cloning a repository, reading it and refactoring the legacy code.  | Ruby, RSpec                 
 
 All of my other projects can be found here on my [Github](https://github.com/Thatguy560?tab=repositories) account.
 
