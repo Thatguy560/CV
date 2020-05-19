@@ -40,10 +40,11 @@ From my years spent working in accounting and finance, pinpointing the small det
 
 **Excellent Problem Solving Skills & Adaptability**
 
-With a logical mindset developed from studying A Level Maths & Physics and supplementary analytical experience as a result of my years spent analysing data, I can find methodical solutions to problems quickly. One of my biggest personal coding qualities is being able to identify potential solutions to problems others may have missed and knowing what to search for to find an answer. As someone who has grown up using technology and worked in industries which ran the gamut of an acclaimed non-profit organisation to small commercial businesses, I have the capacity to adapt and learn quickly. For instance before Makers, I'd never used a Mac computer before, within a week I was already proficient using one.
+With a logical mindset developed from studying A Level Maths & Physics and supplementary analytical experience as a result of my years spent analysing data, I can find methodical solutions to problems quickly. One of my biggest personal coding qualities is being able to identify potential solutions to problems others may have missed and knowing what to search for to find an answer. As someone who has grown up using technology and worked in industries which ran the gamut of an acclaimed non-profit organisation to small commercial businesses, I have the prowess to adapt and learn quickly. For instance before Makers, I'd never used a Mac computer before, within a week I was already proficient using one.
 
 **Teamwork**
- Throughout my time at Makers Academy, I was pair programming just about every day of the course. I thoroughly enjoyed this as working together with someone in order to accomplish a shared goal meant we were not only both consistently learning, but also presented us the opportunity to bounce off each others ideas. In addition when we weren't pair programming, we would be working in groups to produce small team projects
+
+ Throughout my time at Makers Academy, I was pair programming just about every day of the course. I thoroughly enjoyed this as working together with someone in order to accomplish a shared goal meant that we were both not only consistently learning, but also presented us the opportunity to bounce off each others ideas. As well as pair programming, we occasionally would be collaborating in groups to produce small team projects, I appreciated working on these as it helped me gain an insight on how real world projects might be built and furthermore illustrated the significance of having effective team practices, team rituals and creative thinking.
 
 <!-- - Experience
 - Achievements
