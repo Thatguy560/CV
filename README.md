@@ -44,8 +44,7 @@ With a logical mindset developed from studying A Level Maths & Physics and suppl
 
 **Teamwork**
 
- Throughout my time at Makers Academy, I was pair programming just about every day of the course. I thoroughly enjoyed this as working together with someone in order to accomplish a shared goal meant that we were both not only consistently learning, but also presented us the opportunity to bounce off each others ideas. As well as pair programming, we occasionally would be collaborating in groups to produce small team projects, I appreciated working on these as it helped me gain an insight on how real world projects might be built and furthermore illustrated the significance of having effective team practices, team rituals and creative thinking.
-
+Throughout my time at Makers Academy, I was pair programming nearly every day of the course. I thoroughly enjoyed this as working alongside someone else in order to accomplish a shared goal meant that we were both not only consistently learning together, but also presented us the opportunity to bounce off each other's ideas and encouraged us to be inquisitive. As well as pair programming, occasionally we would be collaborating in groups to produce small team projects, these were great experiences as it helped me appreciate how real world projects might be built and furthermore illustrated the significance of having effective team practices, team rituals and creative thinking.
 <!-- - Experience
 - Achievements
 - Evidence -->
