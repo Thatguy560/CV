@@ -1,6 +1,5 @@
-<body>
-<h1 align="center">Peter Alexander Stevens | CV</h1> <a href="https://www.linkedin.com/in/peter-alexander-stevens/"><img src="Assets/58e91afdeb97430e81906504.png" alt="" id="logo" height="50" width="50"></a>
-</body>
+<h1 align="center">Peter Alexander Stevens | CV</h1> 
+<p align="center"><a href="https://www.linkedin.com/in/peter-alexander-stevens/"><img src="Assets/58e91afdeb97430e81906504.png" alt="" id="logo" height="50" width="50"></a></p>
 
 [Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
 
