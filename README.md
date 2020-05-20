@@ -1,7 +1,6 @@
 <h1 align="center">Peter Alexander Stevens | CV</h1>
 
-<p align="center">[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)</p>
-______________________________________________________________________
+[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
 
 ## Background
 
