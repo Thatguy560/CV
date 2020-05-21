@@ -64,9 +64,10 @@ Throughout my time at Makers Academy, I was pair programming nearly every day of
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React
+- Ruby, Rails, Rails, JavaScript, React
 - RSpec, Jasmine
 - SQL with Postgres and MySQL
+- HTML, CSS, jQuery, Bootstrap
 
 #### BPP, London Liverpool Street (July 2017 - November 2018)
 
