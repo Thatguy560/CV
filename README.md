@@ -1,7 +1,10 @@
 <h1 align="center">Peter Alexander Stevens | CV</h1> <a href="https://www.linkedin.com/in/peter-alexander-stevens/"><p align="center"><img src="Assets/58e91afdeb97430e81906504.png" alt="" id="logo" height="50" width="50"></a>
 
-[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
+<p align="center">[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)</p>
 
+[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | 
+
+[Contact](#Contact)
 
 ## Background
 
@@ -108,7 +111,7 @@ Accounts Payable Assistant responsible for ensuring all invoices and credit note
 
 Experienced my first taste of working full-time, I learnt a lot of invaluable skills during this time such as working effectively in a small team through good team practices and pragmatic time management. By utilising Trello to manage tasks and Harvest software for time tracking to record and bill for accountancy work.   
 
-## Interests
+## Hobbies & Interests
 
 Video Games - One of my favourite past times and one of the most influential reasons I find technology as a whole so enthralling.
 
@@ -125,3 +128,4 @@ Email: Peterstevens510@gmail.com
 Location : North London
 
 Contact Number: Email me
+
