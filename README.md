@@ -3,7 +3,7 @@
 <h3 align="center">Email: Peterstevens510@gmail.com<h3>
 
 <div align="center"><a href="https://www.linkedin.com/in/peter-alexander-stevens/">
-<img src="Assets/58e91afdeb97430e81906504.png" alt="github" hspace="10" height="50" width="50"></a>
+<img src="Assets/58e91afdeb97430e81906504.png" alt="github" hspace="-10" height="50" width="50"></a>
 <a href="https://github.com/Thatguy560">
 <img src="Assets/github-mark.png" alt="linkedin" hspace="0" height="50" width="50"></a></p></div>
 
