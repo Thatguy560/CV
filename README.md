@@ -1,6 +1,6 @@
 <h1 align="center">Peter Alexander Stevens | CV</h1> 
 
-<h3 align="center">Email: Peterstevens510@gmail.com<h3>
+<h3 align="center"><b>Email:</b>Peterstevens510@gmail.com<h3>
 
 <a href="https://www.linkedin.com/in/peter-alexander-stevens/"><p align="center"><img src="Assets/58e91afdeb97430e81906504.png" alt="" id="logo" height="50" width="50"></a>
 
