@@ -12,7 +12,7 @@
 
 ## Background
 
-Young, self-motivated and diligent aspiring Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech).
+Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech).
 
 <!-- Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 After finishing my A levels, I was offered university places but chose employment with an apprenticeship as my path to further education as I believed this would give me a better insight into the application of academic knowledge to the real world. During the last three and a half years I have worked in three separate jobs within the Accounting and Finance sector. My employers encouraged me to study accountancy by day release. This education combined with what I learnt performing my work, individually and as a team member, helped my personal development.
@@ -43,7 +43,7 @@ I'm a proficient communicator and I attribute this mostly with my ability to wri
 
 **Attention To Detail**
 
-From my years spent working in accounting and finance, pinpointing the small details was a crucial part of my job and I aim to bring this forward into software development. I'm meticulous and often check my work multiple times to ensure 100% accuracy. A good example of this is when I was working at the ACU, I had a tuition fee batch payment of around £5million being paid in support of hundreds of students across numerous different universities. When processing these payments I had to ensure every single detail was correct otherwise this could have been very problematic for both the organisation and the scholar(s).
+From my years spent working in accounting and finance, pinpointing the small details was a crucial part of my job and I aim to bring this forward into software development. I'm meticulous and often check my work multiple times to ensure 100% accuracy. A good example of this is when I was working at the Association of Commonwealth Universities, I had a tuition fee batch payment of around £5million being paid in support of hundreds of students across numerous different universities. When processing these payments I had to ensure every single detail was correct otherwise this could have been very problematic for both the organisation and the scholar(s).
 
 **Excellent Problem Solving Skills & Adaptability**
 
