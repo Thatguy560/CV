@@ -12,7 +12,7 @@
 
 ## Background
 
-Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech).
+Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/).
 
 <!-- Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
 After finishing my A levels, I was offered university places but chose employment with an apprenticeship as my path to further education as I believed this would give me a better insight into the application of academic knowledge to the real world. During the last three and a half years I have worked in three separate jobs within the Accounting and Finance sector. My employers encouraged me to study accountancy by day release. This education combined with what I learnt performing my work, individually and as a team member, helped my personal development.
