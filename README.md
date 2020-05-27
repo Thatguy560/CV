@@ -1,12 +1,12 @@
 <h1 align="center">Peter Alexander Stevens | CV</h1> 
 
-<h3 align="center"><b>Email:</b>Peterstevens510@gmail.com<h3>
+<h3 align="center">Email: Peterstevens510@gmail.com<h3>
 
 <a href="https://www.linkedin.com/in/peter-alexander-stevens/"><p align="center"><img src="Assets/58e91afdeb97430e81906504.png" alt="" id="logo" height="50" width="50"></a>
 
 <div align="center">
 
-[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contact)
+[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 </div>
 
@@ -125,12 +125,4 @@ Music - I've been into most kinds of music from a fairly early age and been to c
 Fitness - I firmly believe keeping physically active is not only one of the best things for your body but also for your mind.
 
 Some additional interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowledge). Whilst growing up I nurtured my creative side with regular animation practice using programs like Macromedia Flash 8.
-
-## Contact
-
-Email: Peterstevens510@gmail.com
-
-Location : North London
-
-Contact Number: Email me
 
