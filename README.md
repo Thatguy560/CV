@@ -5,7 +5,7 @@
 <div align="center"><a href="https://www.linkedin.com/in/peter-alexander-stevens/">
 <img src="Assets/58e91afdeb97430e81906504.png" alt="github" hspace="0" height="50" width="50"></a>
 <a href="https://github.com/Thatguy560">
-<img src="Assets/github-mark.png" alt="linkedin" hspace="20" height="50" width="50"></a></p></div>
+<img src="Assets/github-mark.png" alt="linkedin" hspace="50" height="50" width="50"></a></p></div>
 
 <div align="center">
 
