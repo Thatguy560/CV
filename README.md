@@ -81,23 +81,11 @@ Throughout my time at Makers Academy, I was pair programming nearly every day of
 
 - AAT Level 2 - Qualified
 
-#### Chace Community School Sixth Form (September 2012 - August 2015)
+#### Chace Community School (September 2007 - August 2015)
 
-A Level Qualifications
+- 3 A-Levels, Mathematics, Physics, Chemistry (September 2012 - August 2015)
 
-- Mathematics (B)
-- Physics (C)
-- Chemistry (D)
-
-As Level Qualifications
-
-- Mathematics (B)
-- Physics (C)
-- Chemistry (C)
-
-#### Chace Community School (September 2007 - July 2012)
-
-9 GCSEs Including English and Maths at Grades A*-C.
+- 9 GCSEs Including English and Maths at Grades A*-C (September 2007 - July 2012)
 
 ## Experience
 
