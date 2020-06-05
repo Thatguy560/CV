@@ -14,15 +14,13 @@
 </div>
 
 ## Background
+<!-- Then a sentence about what you've achieved. -->
+<!-- And then a sentence about what exictes you about tech. -->
+Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/). 
 
-Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/).
+After finishing my A levels, I was offered university places but chose employment with an apprenticeship as my path to further education. During the last three and a half years I have worked in three separate jobs within the Accounting and Finance sector. 
 
-<!-- Then a sentence about what you've achieved. And then a sentence about what exictes you about tech. -->
-After finishing my A levels, I was offered university places but chose employment with an apprenticeship as my path to further education as I believed this would give me a better insight into the application of academic knowledge to the real world. During the last three and a half years I have worked in three separate jobs within the Accounting and Finance sector. My employers encouraged me to study accountancy by day release. This education combined with what I learnt performing my work, individually and as a team member, helped my personal development.
-
-However, after careful consideration of other potential options I concluded a career as an accountant would not provide the type of challenges which would enable me to continue to be productive and fulfilled.
-
-In contrast, I wholeheartedly believe a career in technology will provide creativity, excitement and diversity. I relish the opportunity to both solve and assist in the solution of logic-based challenges. I believe this dynamic environment will provide ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
+As someone who has had a passion for technology from an early age and subsequent research I wholeheartedly believe a career in technology will provide creativity, excitement and diversity. I relish the opportunity to both solve and assist in the solution of logic-based challenges. I believe this dynamic environment will provide ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
 
 ## Projects
 
