@@ -20,7 +20,7 @@ Young, self-motivated and diligent Full-Stack Developer who has just graduated f
 
 After finishing my A levels, I was offered university places but chose employment with an apprenticeship as my path to further education. During the last three and a half years I have worked in three separate jobs within the Accounting and Finance sector. 
 
-As someone who has had a passion for technology from an early age and subsequent research I wholeheartedly believe a career in technology will provide creativity, excitement and diversity. I relish the opportunity to both solve and assist in the solution of logic-based challenges. I believe this dynamic environment will provide ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
+As someone who has had a passion for technology from an early age and subsequent research, I wholeheartedly believe a career in technology will provide creativity, excitement and diversity. I relish the opportunity to both solve and assist in the solution of logic-based challenges. I believe this dynamic environment will provide ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
 
 ## Projects
 
