@@ -2,11 +2,11 @@
 
 <!-- <h1 align="center">[Online Portfolio](https://thatguy560.github.io/)</h1> -->
 
-<div align="center">
+<h1 align="center">
 
-<h1>[Online Portfolio](https://thatguy560.github.io/)</h1>
+[Online Portfolio](https://thatguy560.github.io/)
 
-</div>
+</h1>
 
 <h3 align="center">Email: Peterstevens510@gmail.com<h3>
 
