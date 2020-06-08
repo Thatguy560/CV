@@ -1,7 +1,3 @@
-<!-- <h1 align="center">Peter Alexander Stevens | CV</h1> -->
-
-<!-- <h1 align="center">[Online Portfolio](https://thatguy560.github.io/)</h1> -->
-
 <h1 align="center">
 
 Peter Alexander Stevens | CV
