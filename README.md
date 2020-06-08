@@ -1,4 +1,6 @@
-<h1 align="center">Peter Alexander Stevens | CV</h1> 
+<h1 align="center">Peter Alexander Stevens | CV</h1>
+
+<h1 align="center">[Online Portfolio](https://thatguy560.github.io/)</h1>
 
 <h3 align="center">Email: Peterstevens510@gmail.com<h3>
 
@@ -16,11 +18,11 @@
 ## Background
 <!-- Then a sentence about what you've achieved. -->
 <!-- And then a sentence about what exictes you about tech. -->
-Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/). 
+Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/).
 
-After finishing my A levels, I was offered university places but chose employment with an apprenticeship as my path to further education. During the last three and a half years I have worked in three separate jobs within the Accounting and Finance sector. 
+After finishing my A levels, I was offered university places but chose employment with an apprenticeship as my path to further education. During the last three and a half years I have worked in three separate jobs within the Accounting and Finance sector.
 
-As someone who has had a passion for technology from an early age and after subsequent research, I decided to persue a career in software development. I wholeheartedly believe a career in the technology industry will provide creativity, excitement and diversity. I relish the opportunity to both solve and assist in the solution of logic-based challenges. I believe this dynamic environment will provide ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
+As someone who has had a passion for technology from an early age and after subsequent research, I decided to pursue a career in software development. I wholeheartedly believe a career in the technology industry will provide creativity, excitement and diversity. I relish the opportunity to both solve and assist in the solution of logic-based challenges. I believe this dynamic environment will provide ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
 
 ## Projects
 
@@ -115,4 +117,3 @@ Music - I've been into most kinds of music from a fairly early age and been to c
 Fitness - I firmly believe keeping physically active is not only one of the best things for your body but also for your mind.
 
 Some additional interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowledge). Whilst growing up I nurtured my creative side with regular animation practice using programs like Macromedia Flash 8.
-
