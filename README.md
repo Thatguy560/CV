@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" rel="noopener noreferrer" target="_blank">
 
 Peter Alexander Stevens | CV
 
