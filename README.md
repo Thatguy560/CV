@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[Online Portfolio](https://thatguy560.github.io/)
+<h1>[Online Portfolio](https://thatguy560.github.io/)</h1>
 
 </div>
 
