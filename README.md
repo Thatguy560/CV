@@ -8,12 +8,16 @@ Peter Alexander Stevens | CV
 
 <h3 align="center">Email: Peterstevens510@gmail.com<h3>
 
-<div align="center"><a href="https://www.linkedin.com/in/peter-alexander-stevens/">
-<img src="Assets/58e91afdeb97430e81906504.png" alt="github" hspace="0" height="50" width="50"></a>
-<a href="https://github.com/Thatguy560">
-<img src="Assets/github-mark.png" alt="linkedin" hspace="50" height="50" width="50"></a></p></div>
+<div align="center">
 
 <div align="center">
+
+[![GitHub]](https://github.com/Thatguy560)
+[![LinkedIn]](https://www.linkedin.com/in/peter-alexander-stevens/)
+[![CodeWars]](https://www.codewars.com/users/Thatguy560)
+[![Email]](mailto:Peterstevens510@gmail.com)
+
+</div>
 
 [Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
@@ -121,3 +125,8 @@ Music - I've been into most kinds of music from a fairly early age and been to c
 Fitness - I firmly believe keeping physically active is not only one of the best things for your body but also for your mind.
 
 Some additional interests and hobbies I've had over the years include travelling, film, writing, technology (Building Gaming PC's, General IT knowledge). Whilst growing up I nurtured my creative side with regular animation practice using programs like Macromedia Flash 8.
+
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[Email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Codewars]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+[GitHub]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
