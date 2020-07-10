@@ -6,8 +6,6 @@ Peter Alexander Stevens | CV
 
 </h1>
 
-<h3 align="center">Email: Peterstevens510@gmail.com<h3>
-
 <div align="center">
 
 <div align="center">
