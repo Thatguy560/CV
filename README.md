@@ -17,11 +17,10 @@ Peter Alexander Stevens | CV
 
 </div>
 
-[Background](#Background) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 </div>
 
-## Background
 <!-- Then a sentence about what you've achieved. -->
 <!-- And then a sentence about what exictes you about tech. -->
 Young, self-motivated and diligent Full-Stack Developer who has just graduated from renowned software development bootcamp [Makers Academy](https://makers.tech/hire/).
@@ -31,8 +30,6 @@ After finishing my A levels, I was offered university places but chose employmen
 As someone who has had a passion for technology from an early age and after subsequent research, I decided to pursue a career in software development. I wholeheartedly believe a career in the technology industry will provide creativity, excitement and diversity. I relish the opportunity to both solve and assist in the solution of logic-based challenges. I believe this dynamic environment will provide ample opportunities for personal and professional development. The technology landscape is continuously evolving which necessitates a high demand for people with the same capacity for growth. I strive to be one of those people, constantly learning and developing my skills and knowledge.
 
 ## Projects
-
-Over my time at Makers I worked on a variety of different projects both independently or in a team.
 
 | Project       | Description                        | Tech Stack    |
 | ------------- | -----------------------------------| ------------- |
